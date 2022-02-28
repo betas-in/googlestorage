@@ -1,0 +1,602 @@
+Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Repurchase Price;Sale Price;Date
+
+Open Ended Schemes ( Money Market )
+
+
+Taurus Mutual Fund
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;10.0000;;;04-Jan-2022
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;;10.0000;;;04-Jan-2022
+139616;Taurus Unclaimed Dividend - Growth;;;14.1887;;;04-Jan-2022
+139617;Taurus Unclaimed Redemption - Growth;;;14.1900;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
+
+
+quant Mutual Fund
+100631;quant Active Fund-GROWTH OPTION - Regular Plan;INF966L01234;;420.9308;;;04-Jan-2022
+120823;quant Active Fund-GROWTH OPTION-Direct Plan;INF966L01614;;439.4787;;;04-Jan-2022
+120822;quant Active Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;50.8945;;;04-Jan-2022
+100630;quant Active Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;48.2035;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Large Cap Fund )
+
+
+Indiabulls Mutual Fund
+119133;Indiabulls Blue Chip Fund - Direct Plan - Growth Option;INF666M01600;;33.68;;;04-Jan-2022
+116547;Indiabulls Blue Chip Fund - Regular Plan- Growth Option;INF666M01162;;29.45;;;04-Jan-2022
+119134;Indiabulls Bluechip Fund- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01626;INF666M01618;19.53;;;04-Jan-2022
+140814;Indiabulls Bluechip Fund- Direct Plan- Half Yearly -Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CQ6;INF666M01CR4;18.95;;;04-Jan-2022
+140809;Indiabulls Bluechip Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CM5;INF666M01CN3;15.06;;;04-Jan-2022
+140811;Indiabulls Bluechip Fund- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CO1;INF666M01CP8;18.81;;;04-Jan-2022
+116548;Indiabulls Bluechip Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;16.59;;;04-Jan-2022
+140813;Indiabulls Bluechip Fund- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CW4;INF666M01CX2;17.68;;;04-Jan-2022
+140810;Indiabulls Bluechip Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CS2;INF666M01CT0;16.96;;;04-Jan-2022
+140812;Indiabulls Bluechip Fund- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CU8;INF666M01CV6;17.58;;;04-Jan-2022
+
+JM Financial Mutual Fund
+134958;JM Large Cap Fund (Direct) - Annual IDCW;INF192K01JU4;INF192K01JV2;46.0209;;;04-Jan-2022
+120490;JM Large Cap Fund (Direct) - Growth Option;INF192K01BZ0;;111.7221;;;04-Jan-2022
+134957;JM Large Cap Fund (Direct) - Half Yearly IDCW ;INF192K01JR0;INF192K01JZ3;45.6999;;;04-Jan-2022
+120489;JM Large Cap Fund (Direct) - IDCW;INF192K01BX5;INF192K01BY3;44.8558;;;04-Jan-2022
+134956;JM Large Cap Fund (Direct) - Monthly IDCW ;INF192K01JJ7;INF192K01JK5;45.6043;;;04-Jan-2022
+134960;JM Large Cap Fund (Direct) - Quarterly IDCW;INF192K01JN9;INF192K01JO7;46.0290;;;04-Jan-2022
+134961;JM Large Cap Fund (Regular) - Annual IDCW;INF192K01JS8;INF192K01JT6;20.2489;;;04-Jan-2022
+100219;JM Large Cap Fund (Regular) - Growth Option;INF192K01601;;101.4339;;;04-Jan-2022
+134955;JM Large Cap Fund (Regular) - Half Yearly IDCW;INF192K01JP4;INF192K01JQ2;16.6286;;;04-Jan-2022
+100218;JM Large Cap Fund (Regular) - IDCW ;INF192K01585;INF192K01593;19.6912;;;04-Jan-2022
+134959;JM Large Cap Fund (Regular) - Monthly IDCW;INF192K01JH1;INF192K01JI9;15.7611;;;04-Jan-2022
+134954;JM Large Cap Fund (Regular) - Quarterly IDCW;INF192K01JL3;INF192K01JM1;22.8914;;;04-Jan-2022
+
+Taurus Mutual Fund
+118870;Taurus Largecap Equity Fund - Direct Plan - Growth;INF044D01BX3;;108.07;;;04-Jan-2022
+118871;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01BY1;INF044D01BZ8;47.60;;;04-Jan-2022
+101209;Taurus Largecap Equity Fund - Regular Plan - Growth;INF044D01773;;102.55;;;04-Jan-2022
+108403;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01740;INF044D01757;44.93;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
+
+
+quant Mutual Fund
+104515;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;INF966L01424;;67.137;;;04-Jan-2022
+120824;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;INF966L01655;;67.137;;;04-Jan-2022
+104513;quant Large & Mid Cap Fund - Growth Option;INF966L01341;;67.0795;;;04-Jan-2022
+120826;quant Large & Mid Cap Fund - Growth Option-Direct Plan;INF966L01648;;69.6394;;;04-Jan-2022
+120825;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;INF966L01622;INF966L01630;32.4761;;;04-Jan-2022
+104514;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;INF966L01325;INF966L01333;40.827;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
+
+
+quant Mutual Fund
+120841;quant Mid Cap Fund - Growth Option - Direct Plan;INF966L01887;;126.4906;;;04-Jan-2022
+101065;quant Mid Cap Fund - Growth Option - Regular Plan;INF966L01176;;119.006;;;04-Jan-2022
+120840;quant Mid Cap Fund - IDCW Option - Direct Plan;INF966L01861;INF966L01879;44.6516;;;04-Jan-2022
+101066;quant Mid Cap Fund - IDCW Option - Regular Plan;INF966L01150;INF966L01168;42.1576;;;04-Jan-2022
+
+Taurus Mutual Fund
+118872;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;INF044D01CA9;;76.61;;;04-Jan-2022
+118873;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CB7;INF044D01CC5;68.06;;;04-Jan-2022
+100477;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;INF044D01815;;73.53;;;04-Jan-2022
+111642;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01781;INF044D01799;65.55;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Small Cap Fund )
+
+
+quant Mutual Fund
+100177;quant Small Cap Fund - Growth - Regular Plan;INF966L01AA0;;135.2751;;;04-Jan-2022
+120828;quant Small Cap Fund - Growth Option - Direct Plan;INF966L01689;;141.0563;;;04-Jan-2022
+120827;quant Small Cap Fund - IDCW Option - Direct Plan;INF966L01663;INF966L01671;110.2345;;;04-Jan-2022
+100176;quant Small Cap Fund - IDCW Option - Regular Plan;INF966L01036;INF966L01044;107.4679;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Value Fund )
+
+
+Indiabulls Mutual Fund
+135341;Indiabulls Value Fund - Direct Plan - Growth Option;INF666M01BE4;;19.7088;;;04-Jan-2022
+135343;Indiabulls Value Fund - Regular Plan - Growth Option;INF666M01BH7;;17.4356;;;04-Jan-2022
+135342;Indiabulls Value Fund- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01BF1;INF666M01BG9;19.633;;;04-Jan-2022
+140819;Indiabulls Value Fund- Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DC4;INF666M01DD2;15.7825;;;04-Jan-2022
+140815;Indiabulls Value Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CY0;INF666M01CZ7;14.4501;;;04-Jan-2022
+140817;Indiabulls Value Fund- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DA8;INF666M01DB6;15.7614;;;04-Jan-2022
+135344;Indiabulls Value Fund- Regular Plan - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01BI5;INF666M01BJ3;17.4294;;;04-Jan-2022
+140820;Indiabulls Value Fund- Regular Plan- Half Yearly -Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DI1;INF666M01DJ9;14.2811;;;04-Jan-2022
+140816;Indiabulls Value Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment.;INF666M01DE0;INF666M01DF7;13.5302;;;04-Jan-2022
+140818;Indiabulls Value Fund- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DG5;INF666M01DH3;13.1828;;;04-Jan-2022
+
+JM Financial Mutual Fund
+120486;JM Value Fund (Direct) - Growth Option;INF192K01BT3;;57.3444;;;04-Jan-2022
+120485;JM Value Fund (Direct) - IDCW;INF192K01BR7;INF192K01BS5;39.0718;;;04-Jan-2022
+100254;JM Value Fund (Regular) - Growth Option;INF137A01037;;52.8201;;;04-Jan-2022
+106168;JM Value Fund (Regular) - IDCW;INF137A01011;INF137A01029;36.8834;;;04-Jan-2022
+
+quant Mutual Fund
+149335;Quant Value Fund - Growth Option  - Direct Plan;INF966L01AN3;;10.2911;;;04-Jan-2022
+149337;Quant Value Fund - Growth Option - Regular Plan;INF966L01AQ6;;10.2667;;;04-Jan-2022
+149338;Quant Value Fund - IDCW Option - Direct Plan;INF966L01AO1;INF966L01AP8;10.2981;;;04-Jan-2022
+149336;Quant Value Fund - IDCW Option- Regular Plan;INF966L01AR4;INF966L01AS2;10.2673;;;04-Jan-2022
+
+Quantum Mutual Fund
+103490;Quantum Long Term Equity Value Fund - Direct Plan Growth Option;INF082J01036;;77.87;;;04-Jan-2022
+103491;Quantum Long Term Equity Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;78.53;;;04-Jan-2022
+141068;Quantum Long Term Equity Value Fund - Regular Plan Growth Option;INF082J01242;;76.51;;;04-Jan-2022
+141069;Quantum Long Term Equity Value Fund - Regular Plan IDCW;INF082J01259;INF082J01267;76.95;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Focused Fund )
+
+
+JM Financial Mutual Fund
+120488;JM Core 11 Fund (Direct)  - Growth Option;INF192K01BW7;;13.3451;;;04-Jan-2022
+120487;JM Core 11 Fund (Direct) -  IDCW;INF192K01BU1;INF192K01BV9;13.0785;;;04-Jan-2022
+107410;JM Core 11 Fund (Regular) - Growth Option;INF192K01577;;11.9077;;;04-Jan-2022
+107409;JM Core 11 Fund (Regular) - IDCW;INF192K01551;INF192K01569;11.9072;;;04-Jan-2022
+
+quant Mutual Fund
+109275;quant Focused Fund - Growth Option - Regular Plan;INF966L01374;;54.5495;;;04-Jan-2022
+120834;quant Focused Fund - Growth Option-Direct Plan;INF966L01853;;57.0572;;;04-Jan-2022
+120835;quant Focused Fund - IDCW Option - Direct Plan;INF966L01838;INF966L01846;33.4373;;;04-Jan-2022
+109274;quant Focused Fund - IDCW Option - Regular Plan;INF966L01358;INF966L01366;40.4263;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
+
+
+quant Mutual Fund
+109830;quant Consumption Fund - Growth Option - Regular Plan;INF966L01457;;58.6648;;;04-Jan-2022
+120843;quant Consumption Fund - Growth Option-Direct Plan;INF966L01911;;62.4462;;;04-Jan-2022
+120842;quant Consumption Fund - IDCW Option - Direct Plan;INF966L01895;INF966L01903;42.4407;;;04-Jan-2022
+109831;quant Consumption Fund - IDCW Option - Regular Plan;INF966L01432;INF966L01440;42.0499;;;04-Jan-2022
+148564;quant ESG Equity Fund - Growth Option - Direct Plan;INF966L01AD4;;19.6959;;;04-Jan-2022
+148560;quant ESG Equity Fund - Growth Option - Regular Plan;INF966L01AB8;;19.4094;;;04-Jan-2022
+148563;quant ESG Equity Fund - IDCW Option - Direct Plan;INF966L01AE2;INF966L01AG7;19.6668;;;04-Jan-2022
+148561;quant ESG Equity Fund - IDCW Option - Regular Plan;INF966L01AC6;INF966L01AF9;19.3858;;;04-Jan-2022
+106170;quant Infrastructure Fund - Growth Option;INF966L01523;;21.3787;;;04-Jan-2022
+120833;quant Infrastructure Fund - Growth Option-Direct Plan;INF966L01721;;22.2864;;;04-Jan-2022
+120832;quant Infrastructure Fund - IDCW Option - Direct Plan;INF966L01705;INF966L01713;22.2729;;;04-Jan-2022
+106169;quant Infrastructure Fund - IDCW Option - Regular Plan;INF966L01507;INF966L01515;21.3409;;;04-Jan-2022
+148925;quant Quantamental Fund - Growth Option - Direct Plan;INF966L01AK9;;11.5457;;;04-Jan-2022
+148923;quant Quantamental Fund - Growth Option - Regular Plan;INF966L01AH5;;11.4017;;;04-Jan-2022
+148924;quant Quantamental Fund - IDCW Option - Direct Plan;INF966L01AL7;INF966L01AM5;11.5529;;;04-Jan-2022
+148922;quant Quantamental Fund - IDCW Option - Regular Plan;INF966L01AI3;INF966L01AJ1;11.4089;;;04-Jan-2022
+
+Quantum Mutual Fund
+147372;QUANTUM INDIA ESG EQUITY FUND - DIRECT PLAN - GROWTH OPTION;INF082J01382;;17.70;;;04-Jan-2022
+147371;QUANTUM INDIA ESG EQUITY FUND - REGULAR PLAN - GROWTH OPTION;INF082J01390;;17.41;;;04-Jan-2022
+
+Taurus Mutual Fund
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;INF044D01CN2;;37.61;;;04-Jan-2022
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CO0;INF044D01CP7;37.18;;;04-Jan-2022
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;INF044D01BI4;;34.58;;;04-Jan-2022
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01BJ2;INF044D01BK0;30.95;;;04-Jan-2022
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;INF044D01823;;86.74;;;04-Jan-2022
+118876;Taurus Ethical Fund - Direct Plan - Growth;INF044D01CJ0;;93.66;;;04-Jan-2022
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CK8;INF044D01CL6;62.87;;;04-Jan-2022
+111787;Taurus Ethical Fund - Regular Plan - Growth;INF044D01864;;86.76;;;04-Jan-2022
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01831;INF044D01849;58.65;;;04-Jan-2022
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;INF044D01CM4;;30.69;;;04-Jan-2022
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;INF044D01CD3;;40.99;;;04-Jan-2022
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CE1;INF044D01CF8;38.17;;;04-Jan-2022
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;INF044D01906;;38.80;;;04-Jan-2022
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01872;INF044D01880;36.44;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - ELSS )
+
+
+Indiabulls Mutual Fund
+141807;Indiabulls Tax Savings Fund- Direct Plan- Dividend Option;INF666M01DL5;;14.52;;;04-Jan-2022
+141808;Indiabulls Tax Savings Fund- Direct Plan- Growth Option;INF666M01DK7;;14.56;;;04-Jan-2022
+141810;Indiabulls Tax Savings Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout);INF666M01DO9;;13.6;;;04-Jan-2022
+141862;Indiabulls Tax Savings Fund-Regular Plan-Growth Option;INF666M01DN1;;13.6;;;04-Jan-2022
+
+JM Financial Mutual Fund
+120494;JM Tax Gain Fund (Direct) - Growth Option;INF192K01CE3;;32.3519;;;04-Jan-2022
+120493;JM Tax Gain Fund (Direct) - IDCW;INF192K01CD5;;31.5543;;;04-Jan-2022
+107288;JM Tax Gain Fund (Regular) - Growth option;INF192K01650;;29.4309;;;04-Jan-2022
+107287;JM Tax Gain Fund (Regular) - IDCW;INF192K01643;;29.4305;;;04-Jan-2022
+
+quant Mutual Fund
+120847;quant Tax Plan - Growth Option - Direct Plan;INF966L01986;;239.5591;;;04-Jan-2022
+100175;quant Tax Plan - Growth Option - Regular Plan;INF966L01135;;224.0709;;;04-Jan-2022
+120846;quant Tax Plan - IDCW Option - Direct Plan;INF966L01960;INF966L01127;31.9392;;;04-Jan-2022
+100174;quant Tax Plan - IDCW Option - Regular Plan;INF966L01119;;31.0729;;;04-Jan-2022
+
+Quantum Mutual Fund
+111549;Quantum Tax Saving Fund - Direct Plan Growth Option;INF082J01069;;77.13;;;04-Jan-2022
+111550;Quantum Tax Saving Fund - Direct Plan IDCW;INF082J01077;INF082J01085;77.13;;;04-Jan-2022
+141070;Quantum Tax Saving Fund - Regular Plan Growth Option;INF082J01366;;75.79;;;04-Jan-2022
+141071;Quantum Tax Saving Fund - Regular Plan IDCW;INF082J01374;;75.79;;;04-Jan-2022
+
+Shriram Mutual Fund
+145819;Shriram Long Term Equity Fund - Direct Growth;INF680P01158;;16.6621;;;04-Jan-2022
+145822;Shriram Long Term Equity Fund - Direct- IDCW;INF680P01166;;16.6062;;;04-Jan-2022
+145820;Shriram Long Term Equity Fund - Regular Growth;INF680P01133;;15.7556;;;04-Jan-2022
+145821;Shriram Long Term Equity Fund - Regular-IDCW;INF680P01141;;15.7463;;;04-Jan-2022
+
+Taurus Mutual Fund
+118866;Taurus Taxshield - Direct Plan - Growth;INF044D01CG6;INF044D01AA3;120.33;;;04-Jan-2022
+118867;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CH4;INF044D01CI2;55.46;;;04-Jan-2022
+100480;Taurus Taxshield - Regular Plan - Growth;INF044D01AC9;;112.93;;;04-Jan-2022
+108402;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;52.90;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Overnight Fund )
+
+
+Indiabulls Mutual Fund
+147458;Indiabulls Overnight Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01GM6;1000.9932;;;04-Jan-2022
+147452;Indiabulls Overnight Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GP9;INF666M01GQ7;1002.2451;;;04-Jan-2022
+147450;Indiabulls Overnight Fund- Direct Plan- Growth Option;INF666M01GL8;;1092.8179;;;04-Jan-2022
+147453;Indiabulls Overnight Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GR5;INF666M01GS3;1001;;;04-Jan-2022
+147451;Indiabulls Overnight Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GN4;INF666M01GO2;1001.148;;;04-Jan-2022
+147455;Indiabulls Overnight Fund- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01GU9;1000.9733;;;04-Jan-2022
+147457;Indiabulls Overnight Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GX3;INF666M01GY1;1001.5606;;;04-Jan-2022
+147454;Indiabulls Overnight Fund- Regular Plan- Growth Option;INF666M01GT1;;1090.0848;;;04-Jan-2022
+147459;Indiabulls Overnight Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GZ8;INF666M01HA9;1001.0003;;;04-Jan-2022
+147456;Indiabulls Overnight Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GV7;INF666M01GW5;1001.0179;;;04-Jan-2022
+149394;Indiabulls Overnight Fund- Unclaimed Dividend < 3 years;;;1002.1402;;;04-Jan-2022
+149393;Indiabulls Overnight Fund- Unclaimed Dividend > 3 Years;;;1003.192;;;04-Jan-2022
+149396;Indiabulls Overnight Fund- Unclaimed Redemption < 3 Years;;;1003.2051;;;04-Jan-2022
+149395;Indiabulls Overnight Fund- Unclaimed Redemption > 3 Years;;;1003.6911;;;04-Jan-2022
+
+JM Financial Mutual Fund
+147838;JM Overnight Fund (Direct) - Daily IDCW;;INF192K01LY2;1000.0000;;;04-Jan-2022
+147835;JM Overnight Fund (Direct) - Weekly IDCW;INF192K01LZ9;INF192K01MA0;1000.0000;;;04-Jan-2022
+147839;JM Overnight Fund (Regular) - Daily IDCW;;INF192K01LU0;1000.0000;;;04-Jan-2022
+147834;JM Overnight Fund (Regular) - Weekly IDCW;INF192K01LN5;;1000.0000;;;04-Jan-2022
+147837;JM Overnight Fund - Direct - Growth;INF192K01LT2;;1071.9088;;;04-Jan-2022
+147836;JM Overnight Fund - Regular - Growth;INF192K01LP0;;1070.3513;;;04-Jan-2022
+
+YES Mutual Fund
+147591;YES Overnight Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01332;1000.3856;;;04-Jan-2022
+147595;YES Overnight Fund- Direct plan-Fortnightly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01340;INF03VN01357;1003.4492;;;04-Jan-2022
+147593;YES Overnight Fund- Direct plan-Growth Option;INF03VN01365;;1084.2345;;;04-Jan-2022
+147597;YES Overnight Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01373;INF03VN01381;1003.4381;;;04-Jan-2022
+147590;YES Overnight Fund- Regular plan-Growth Option;INF03VN01456;;1082.5838;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+
+
+Indiabulls Mutual Fund
+119135;Indiabulls Liquid Fund - Direct Plan - Growth Option;INF666M01451;;2053.4587;;;04-Jan-2022
+115991;Indiabulls Liquid Fund - Growth Option;INF666M01014;;2035.3912;;;04-Jan-2022
+119136;Indiabulls Liquid Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01469;1001.06;;;04-Jan-2022
+119138;Indiabulls Liquid Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01501;INF666M01485;1001.3455;;;04-Jan-2022
+119139;Indiabulls Liquid Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01519;INF666M01493;1029.4608;;;04-Jan-2022
+119137;Indiabulls Liquid Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01527;INF666M01477;1000.6333;;;04-Jan-2022
+115992;Indiabulls Liquid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1001.1451;;;04-Jan-2022
+115994;Indiabulls Liquid Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01063;INF666M01048;1001.2638;;;04-Jan-2022
+115995;Indiabulls Liquid Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1000.962;;;04-Jan-2022
+115993;Indiabulls Liquid Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1001.7012;;;04-Jan-2022
+
+JM Financial Mutual Fund
+120410;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;INF192K01CN4;;18.5728;;;04-Jan-2022
+120411;JM Liquid Fund (Direct) - Daily IDCW;;INF192K01CH6;10.4302;;;04-Jan-2022
+120406;JM Liquid Fund (Direct) - Growth Option;INF192K01CM6;;57.7165;;;04-Jan-2022
+120408;JM Liquid Fund (Direct) - Quarterly IDCW;INF192K01CK0;INF192K01CL8;32.7679;;;04-Jan-2022
+120407;JM Liquid Fund (Direct) - Weekly IDCW;INF192K01CI4;INF192K01CJ2;11.0060;;;04-Jan-2022
+100244;JM Liquid Fund (Regular) - Quarterly IDCW;INF192K01866;INF192K01874;32.4350;;;04-Jan-2022
+100247;JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option;INF192K01981;;32.9496;;;04-Jan-2022
+100233;JM Liquid Fund (Regular) - Weekly IDCW;INF192K01841;INF192K01858;11.0035;;;04-Jan-2022
+100234;JM Liquid Fund - Growth Option;INF192K01882;;57.3049;;;04-Jan-2022
+148414;JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan;;;41.4437;;;04-Jan-2022
+148413;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;;;41.4437;;;04-Jan-2022
+148415;JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan;;;41.4437;;;04-Jan-2022
+139258;JM Liquid Fund Unclaimed Dividend (Direct) Growth Plan;INF192K01LB0;;57.7187;;;04-Jan-2022
+139260;JM Liquid Fund Unclaimed Dividend IEF (Direct) Growth Plan;INF192K01LD6;;41.4437;;;04-Jan-2022
+139257;JM Liquid Fund Unclaimed Redemption (Direct) Growth Plan;INF192K01LA2;;57.7187;;;04-Jan-2022
+139259;JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan;INF192K01LC8;;41.4437;;;04-Jan-2022
+101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;18.3492;;;04-Jan-2022
+101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;04-Jan-2022
+
+quant Mutual Fund
+120837;quant Liquid Fund - Growth Option - Direct Plan;INF966L01820;;33.9676;;;04-Jan-2022
+103225;quant Liquid Fund - Growth Option - Regular Plan;INF966L01317;;33.3978;;;04-Jan-2022
+120838;quant Liquid Fund - Monthly IDCW Option - Direct Plan;INF966L01796;INF966L01812;15.538;;;04-Jan-2022
+103228;quant Liquid Fund - Monthly IDCW Option - Regular Plan;INF966L01291;INF966L01309;15.191;;;04-Jan-2022
+120839;quant Liquid Fund - Weekly IDCW Option - Direct Plan;INF966L01788;INF966L01804;14.1372;;;04-Jan-2022
+103227;quant Liquid Fund - Weekly IDCW Option - Regular Plan;INF966L01499;INF966L01283;13.513;;;04-Jan-2022
+120836;quant Liquid Fund-Daily IDCW Option - Direct Plan;;INF966L01770;13.4748;;;04-Jan-2022
+103226;quant Liquid Fund-Daily IDCW Option - Regular Plan;;INF966L01275;13.1698;;;04-Jan-2022
+148513;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;;;10.5837;;;04-Jan-2022
+148510;quant Liquid Fund-Unclaimed Dividend-Growth Option;;;10.5843;;;04-Jan-2022
+148511;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;;;10.5837;;;04-Jan-2022
+148512;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;;;10.5867;;;04-Jan-2022
+
+Quantum Mutual Fund
+103736;Quantum Liquid Fund - Direct Plan Daily IDCW;;INF082J01135;10.0136;;;04-Jan-2022
+103734;Quantum Liquid Fund - Direct Plan Growth Option;INF082J01127;;28.4726;;;04-Jan-2022
+103735;Quantum Liquid Fund - Direct Plan Monthly IDCW;INF082J01143;INF082J01200;10.0158;;;04-Jan-2022
+141065;Quantum Liquid Fund - Regular Plan Daily IDCW;;INF082J01317;10.0010;;;04-Jan-2022
+141066;Quantum Liquid Fund - Regular Plan Growth Option;INF082J01309;;28.3725;;;04-Jan-2022
+141067;Quantum Liquid Fund - Regular Plan Monthly IDCW;INF082J01325;INF082J01333;10.0129;;;04-Jan-2022
+
+Trust Mutual Fund
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1018.8879;;;04-Jan-2022
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;INF0GCD01255;;1023.3582;;;04-Jan-2022
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1009.2286;;;04-Jan-2022
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1012.7351;;;04-Jan-2022
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1018.2187;;;04-Jan-2022
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;INF0GCD01198;;1022.2738;;;04-Jan-2022
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1008.294;;;04-Jan-2022
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1007.2059;;;04-Jan-2022
+
+YES Mutual Fund
+145969;YES Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01019;1000.9567;;;04-Jan-2022
+145966;YES Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01027;INF03VN01035;1000.7460;;;04-Jan-2022
+145971;YES Liquid Fund- Direct plan-Growth Option;INF03VN01043;;1137.4379;;;04-Jan-2022
+145967;YES Liquid Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01050;INF03VN01068;1002.4437;;;04-Jan-2022
+145970;YES Liquid Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01076;INF03VN01084;1001.3130;;;04-Jan-2022
+145963;YES Liquid Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01092;1000.9434;;;04-Jan-2022
+145965;YES Liquid Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01100;INF03VN01118;1002.7609;;;04-Jan-2022
+145968;YES Liquid Fund- Regular plan-Growth Option;INF03VN01126;;1134.7599;;;04-Jan-2022
+145972;YES Liquid Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01134;INF03VN01142;1002.9146;;;04-Jan-2022
+145964;YES Liquid Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01159;INF03VN01167;1001.3276;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Ultra Short Duration Fund )
+
+
+YES Mutual Fund
+147316;YES Ultra Short Term Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01175;1001.4578;;;04-Jan-2022
+147315;YES Ultra Short Term Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01183;INF03VN01191;1001.3522;;;04-Jan-2022
+147311;YES Ultra Short Term Fund- Direct plan-Growth Option;INF03VN01209;;1129.1738;;;04-Jan-2022
+147312;YES Ultra Short Term Fund- Direct plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01217;INF03VN01225;1003.2568;;;04-Jan-2022
+147313;YES Ultra Short Term Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01233;INF03VN01241;1001.4990;;;04-Jan-2022
+147308;YES Ultra Short Term Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01258;1001.4533;;;04-Jan-2022
+147307;YES Ultra Short Term Fund- Regular plan-Growth Option;;INF03VN01282;1114.0880;;;04-Jan-2022
+147314;YES Ultra Short Term Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01290;INF03VN01308;1002.9424;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Low Duration Fund )
+
+
+JM Financial Mutual Fund
+143610;JM Low Duration Fund (Direct) - Bonus Option - Principal Units;INF192K01FL1;;18.2414;;;04-Jan-2022
+143604;JM Low Duration Fund (Direct) - Daily IDCW;;INF192K01DT9;10.8500;;;04-Jan-2022
+143606;JM Low Duration Fund (Direct) - Fortnightly IDCW;;INF192K01DV5;11.1200;;;04-Jan-2022
+143612;JM Low Duration Fund (Direct) - Growth;INF192K01DW3;;30.2960;;;04-Jan-2022
+143611;JM Low Duration Fund (Direct) - Weekly IDCW;;INF192K01DU7;11.4500;;;04-Jan-2022
+143603;JM Low Duration Fund (Regular) - Daily IDCW;;INF192K01AV1;10.8200;;;04-Jan-2022
+143605;JM Low Duration Fund (Regular) - Fortnightly IDCW ;;INF192K01AX7;11.0800;;;04-Jan-2022
+143607;JM Low Duration Fund (Regular) - Growth Option;INF192K01AY5;;29.9466;;;04-Jan-2022
+143608;JM Low Duration Fund (Regular) - Weekly IDCW;;INF192K01AW9;11.4100;;;04-Jan-2022
+143609;JM Low Duration Fund - Bonus Option - Principal Units;INF192K01FJ5;;18.0418;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Short Duration Fund )
+
+
+Indiabulls Mutual Fund
+123704;Indiabulls Short Term Fund - Direct Plan - Growth Option;INF666M01AC0;;1913.5999;;;04-Jan-2022
+123708;Indiabulls Short Term Fund - Regular Plan - Growth Option;INF666M01AJ5;;1733.6138;;;04-Jan-2022
+123706;Indiabulls Short Term Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AH9;INF666M01AE6;1013.7647;;;04-Jan-2022
+123707;Indiabulls Short Term Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1015.1875;;;04-Jan-2022
+123705;Indiabulls Short Term Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1012.2487;;;04-Jan-2022
+123710;Indiabulls Short Term Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AO5;INF666M01AL1;1013.2961;;;04-Jan-2022
+123711;Indiabulls Short Term Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1020.0797;;;04-Jan-2022
+123709;Indiabulls Short Term Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1012.1175;;;04-Jan-2022
+
+Trust Mutual Fund
+149076;TRUSTMF Short Term Fund-Direct Plan-Growth;INF0GCD01370;;1016.3293;;;04-Jan-2022
+149078;TRUSTMF Short Term Fund-Direct Plan-Monthly Income Distribution Cum Capital Withdrawal;INF0GCD01396;INF0GCD01404;1007.295;;;04-Jan-2022
+149079;TRUSTMF Short Term Fund-Direct Plan-Quarterly Income Distribution Cum Capital Withdrawal;INF0GCD01412;INF0GCD01420;1007.3255;;;04-Jan-2022
+149077;TRUSTMF Short Term Fund-Direct Plan-Weekly Income Distribution Cum Capital Withdrawal;;INF0GCD01388;1004.5186;;;04-Jan-2022
+149073;TRUSTMF Short Term Fund-Regular Plan-Growth;INF0GCD01313;;1014.2179;;;04-Jan-2022
+149080;TRUSTMF Short Term Fund-Regular Plan-Monthly Income Distribution Cum Capital Withdrawal;INF0GCD01339;INF0GCD01347;1005.173;;;04-Jan-2022
+149075;TRUSTMF Short Term Fund-Regular Plan-Quarterly Income Distribution Cum Capital Withdrawal;INF0GCD01354;INF0GCD01362;1005.1689;;;04-Jan-2022
+149074;TRUSTMF Short Term Fund-Regular Plan-Weekly Income Distribution Cum Capital Withdrawal;;INF0GCD01321;1002.7318;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Medium to Long Duration Fund )
+
+
+JM Financial Mutual Fund
+120428;JM Income Fund (Direct) - Bonus Option - Principal Units;INF192K01CX3;;23.9379;;;04-Jan-2022
+120430;JM Income Fund (Direct) - Growth Option;INF192K01CW5;;55.7988;;;04-Jan-2022
+120431;JM Income Fund (Direct) - Quarterly IDCW;INF192K01CU9;INF192K01CV7;19.7169;;;04-Jan-2022
+100223;JM Income Fund (Regular) - Growth Option;INF192K01AB3;;51.0057;;;04-Jan-2022
+100222;JM Income Fund (Regular) - Quarterly IDCW ;INF192K01999;INF192K01AA5;17.3422;;;04-Jan-2022
+101181;JM Income Fund (Regular) - Bonus Option- Principal Units;INF192K01AC1;;20.8679;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Dynamic Bond )
+
+
+Indiabulls Mutual Fund
+145589;Indiabulls Dynamic Bond Fund - Direct Plan - Growth option;INF666M01EK5;;1242.6634;;;04-Jan-2022
+145590;Indiabulls Dynamic Bond Fund - Regular Plan - Growth option;INF666M01ES8;;1222.9243;;;04-Jan-2022
+145596;Indiabulls Dynamic Bond Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01EL3;1007.5209;;;04-Jan-2022
+145595;Indiabulls Dynamic Bond Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EO7;INF666M01EP4;1009.3655;;;04-Jan-2022
+145591;Indiabulls Dynamic Bond Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EQ2;INF666M01ER0;1007.4691;;;04-Jan-2022
+145597;Indiabulls Dynamic Bond Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EM1;INF666M01EN9;1006.753;;;04-Jan-2022
+145593;Indiabulls Dynamic Bond Fund- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01ET6;1008.0282;;;04-Jan-2022
+145598;Indiabulls Dynamic Bond Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EW0;INF666M01EX8;1008.8636;;;04-Jan-2022
+145592;Indiabulls Dynamic Bond Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EY6;INF666M01EZ3;1007.2302;;;04-Jan-2022
+145594;Indiabulls Dynamic Bond Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EU4;INF666M01EV2;1006.7628;;;04-Jan-2022
+
+JM Financial Mutual Fund
+120432;JM Dynamic Debt Fund (Direct) - Daily IDCW;;INF192K01CZ8;10.1057;;;04-Jan-2022
+120434;JM Dynamic Debt Fund (Direct) - IDCW;INF192K01DB7;INF192K01DC5;35.1828;;;04-Jan-2022
+133414;JM Dynamic Debt Fund (Direct) - Monthly IDCW;INF192K01IL5;INF192K01IM3;35.4539;;;04-Jan-2022
+120433;JM Dynamic Debt Fund (Direct) - Weekly IDCW;;INF192K01DA9;10.5561;;;04-Jan-2022
+122323;JM Dynamic Debt Fund (Regular) - Bonus Option - Principal Units;INF192K01EX9;;33.2666;;;04-Jan-2022
+105639;JM Dynamic Debt Fund (Regular) - Daily IDCW;;INF192K01668;10.0512;;;04-Jan-2022
+101806;JM Dynamic Debt Fund (Regular) - Growth Option;INF192K01700;;33.2554;;;04-Jan-2022
+133389;JM Dynamic Debt Fund (Regular) - Half Yearly Bonus Option - Principal Units;INF192K01IN1;;33.5408;;;04-Jan-2022
+101805;JM Dynamic Debt Fund (Regular) - IDCW;INF192K01684;INF192K01692;33.3596;;;04-Jan-2022
+133390;JM Dynamic Debt Fund (Regular) - Monthly IDCW;INF192K01IJ9;INF192K01IK7;33.5179;;;04-Jan-2022
+105637;JM Dynamic Debt Fund (Regular) - Weekly IDCW;;INF192K01676;10.5472;;;04-Jan-2022
+122315;JM Dynamic Debt Fund - (Direct) - Bonus Option-Principal Units;INF192K01EZ4;;34.8589;;;04-Jan-2022
+120435;JM Dynamic Debt Fund - (Direct) - Growth Option;INF192K01DD3;;34.9944;;;04-Jan-2022
+133388;JM Dynamic Debt Fund - (Direct) - Half Yearly Bonus Option - Principal Units;INF192K01IP6;;35.2120;;;04-Jan-2022
+
+Quantum Mutual Fund
+134494;Quantum Dynamic Bond Fund - Direct Plan Growth Option;INF082J01176;;16.8579;;;04-Jan-2022
+134493;Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW;INF082J01184;INF082J01192;10.2013;;;04-Jan-2022
+141061;Quantum Dynamic Bond Fund - Regular Plan Growth Option;INF082J01218;;16.7678;;;04-Jan-2022
+141060;Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW;INF082J01226;INF082J01234;10.2827;;;04-Jan-2022
+
+Open Ended Schemes ( Debt Scheme - Banking and PSU Fund )
+
+
+Trust Mutual Fund
+148656;TRUSTMF BANKING & PSU DEBT FUND - DIRECT GROWTH;INF0GCD01107;;1044.452;;;04-Jan-2022
+148655;TRUSTMF BANKING & PSU DEBT FUND - REGULAR GROWTH;INF0GCD01016;;1039.616;;;04-Jan-2022
+148672;TRUSTMF BANKING & PSU DEBT FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;INF0GCD01180;INF0GCD01172;1044.4598;;;04-Jan-2022
+148678;TRUSTMF BANKING & PSU DEBT FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01115;1047.1092;;;04-Jan-2022
+148681;TRUSTMF BANKING & PSU DEBT FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;INF0GCD01149;INF0GCD01131;1018.9192;;;04-Jan-2022
+148670;TRUSTMF BANKING & PSU DEBT FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01164;INF0GCD01156;1026.4197;;;04-Jan-2022
+148675;TRUSTMF BANKING & PSU DEBT FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01123;1017.0792;;;04-Jan-2022
+148669;TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01099;INF0GCD01081;1039.6309;;;04-Jan-2022
+148667;TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01024;1039.9868;;;04-Jan-2022
+148674;TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01057;INF0GCD01040;1014.6625;;;04-Jan-2022
+148668;TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01073;INF0GCD01065;1021.5977;;;04-Jan-2022
+148679;TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01032;1015.0146;;;04-Jan-2022
+
+Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
+
+
+Indiabulls Mutual Fund
+145599;Indiabulls Equity Hybrid Fund - Direct Plan - Growth option;INF666M01FA3;;15.8516;;;04-Jan-2022
+145605;Indiabulls Equity Hybrid Fund - Regular Plan - Growth option;INF666M01FJ4;;14.9013;;;04-Jan-2022
+145600;Indiabulls Equity Hybrid Fund- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FB1;INF666M01FC9;15.7504;;;04-Jan-2022
+145602;Indiabulls Equity Hybrid Fund- Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FH8;INF666M01FI6;15.2764;;;04-Jan-2022
+145606;Indiabulls Equity Hybrid Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FD7;INF666M01FE5;15.7275;;;04-Jan-2022
+145601;Indiabulls Equity Hybrid Fund- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FF2;INF666M01FG0;15.5653;;;04-Jan-2022
+145603;Indiabulls Equity Hybrid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FK2;INF666M01FL0;14.895;;;04-Jan-2022
+145608;Indiabulls Equity Hybrid Fund- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FQ9;INF666M01FR7;14.8641;;;04-Jan-2022
+145604;Indiabulls Equity Hybrid Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment.;INF666M01FM8;INF666M01FN6;14.8979;;;04-Jan-2022
+145607;Indiabulls Equity Hybrid Fund- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01FO4;INF666M01FP1;15.7919;;;04-Jan-2022
+
+JM Financial Mutual Fund
+130904;JM Equity Hybrid Fund (Direct) - Annual Bonus Option;INF192K01HB8;;74.8317;;;04-Jan-2022
+131477;JM Equity Hybrid Fund (Direct) - Annual IDCW;INF192K01HJ1;INF192K01HK9;25.2105;;;04-Jan-2022
+133401;JM Equity Hybrid Fund (Direct) - Bonus Option - Principal Units;INF192K01GP0;;76.4798;;;04-Jan-2022
+120484;JM Equity Hybrid Fund (Direct) - Growth Option;INF192K01BQ9;;74.7123;;;04-Jan-2022
+133409;JM Equity Hybrid Fund (Direct) - Half Yearly Bonus Option - Principal Units;INF192K01HV6;;76.4798;;;04-Jan-2022
+133402;JM Equity Hybrid Fund (Direct) - Half Yearly IDCW;INF192K01HH5;INF192K01HI3;53.7593;;;04-Jan-2022
+120483;JM Equity Hybrid Fund (Direct) - IDCW;INF192K01BO4;INF192K01BP1;41.1898;;;04-Jan-2022
+133412;JM Equity Hybrid Fund (Direct) - Monthly IDCW;INF192K01HN3;INF192K01HO1;53.7443;;;04-Jan-2022
+133411;JM Equity Hybrid Fund (Direct) - Quarterly Bonus Option - Principal Units;INF192K01HZ7;;76.4798;;;04-Jan-2022
+133406;JM Equity Hybrid Fund (Direct) - Quarterly IDCW;INF192K01HR4;INF192K01HS2;18.9054;;;04-Jan-2022
+133407;JM Equity Hybrid Fund (Regular) - Annual Bonus Option - Principal Units;INF192K01GZ9;;70.5485;;;04-Jan-2022
+131476;JM Equity Hybrid Fund (Regular) - Annual IDCW;INF192K01HF9;INF192K01HG7;19.0642;;;04-Jan-2022
+133400;JM Equity Hybrid Fund (Regular) - Bonus Option - Principal Units;INF192K01GN5;;70.5485;;;04-Jan-2022
+133403;JM Equity Hybrid Fund (Regular) - Half Yearly Bonus Option - Principal Units;INF192K01HT0;;70.5485;;;04-Jan-2022
+133408;JM Equity Hybrid Fund (Regular) - Half Yearly IDCW ;INF192K01HD4;INF192K01HE2;50.1050;;;04-Jan-2022
+100220;JM Equity Hybrid Fund (Regular) - IDCW ;INF192K01528;INF192K01536;19.2006;;;04-Jan-2022
+133404;JM Equity Hybrid Fund (Regular) - Monthly IDCW;INF192K01HL7;INF192K01HM5;49.7068;;;04-Jan-2022
+133410;JM Equity Hybrid Fund (Regular) - Quarterly Bonus Option - Principal Units;INF192K01HX2;;70.5485;;;04-Jan-2022
+133405;JM Equity Hybrid Fund (Regular) - Quarterly IDCW;INF192K01HP8;INF192K01HQ6;17.7416;;;04-Jan-2022
+100221;JM Equity Hybrid Fund (Regular) -Growth Option;INF192K01544;;68.6475;;;04-Jan-2022
+
+quant Mutual Fund
+101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;276.8079;;;04-Jan-2022
+120819;quant Absolute Fund-Growth Option-Direct Plan;INF966L01556;;286.4435;;;04-Jan-2022
+101069;quant Absolute Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;38.1769;;;04-Jan-2022
+120818;quant Absolute Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;39.6714;;;04-Jan-2022
+
+Shriram Mutual Fund
+125711;Shriram Hybrid Equity Fund- Direct Growth;INF680P01042;;25.1768;;;04-Jan-2022
+125712;Shriram Hybrid Equity Fund- Direct- IDCW;INF680P01059;INF680P01067;19.9697;;;04-Jan-2022
+125713;Shriram Hybrid Equity Fund- Growth;INF680P01018;;23.2794;;;04-Jan-2022
+125714;Shriram Hybrid Equity Fund- Regular-IDCW;INF680P01026;INF680P01034;18.6095;;;04-Jan-2022
+
+Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
+
+
+Shriram Mutual Fund
+147406;Shriram Balanced Advantage Fund - Direct Growth;INF680P01208;;13.7498;;;04-Jan-2022
+147403;Shriram Balanced Advantage Fund - Direct- IDCW;INF680P01216;INF680P01224;13.7136;;;04-Jan-2022
+147405;Shriram Balanced Advantage Fund - Regular Growth;INF680P01174;;13.0956;;;04-Jan-2022
+147404;Shriram Balanced Advantage Fund - Regular-IDCW;INF680P01182;INF680P01190;13.0963;;;04-Jan-2022
+
+Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
+
+
+quant Mutual Fund
+120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;74.0957;;;04-Jan-2022
+101071;quant Multi Asset Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;72.4678;;;04-Jan-2022
+101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;78.9752;;;04-Jan-2022
+120821;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;INF966L01580;;80.3588;;;04-Jan-2022
+
+Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
+
+
+Indiabulls Mutual Fund
+133181;Indiabulls Arbitrage Fund - Direct Plan - Growth Option;INF666M01AW8;;15.1528;;;04-Jan-2022
+133184;Indiabulls Arbitrage Fund - Regular Plan - Growth Option;INF666M01BA2;;14.5169;;;04-Jan-2022
+140807;Indiabulls Arbitrage Fund- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;11.97;;;04-Jan-2022
+140805;Indiabulls Arbitrage Fund- Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CE2;INF666M01CF9;12.071;;;04-Jan-2022
+140801;Indiabulls Arbitrage Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AX6;INF666M01AY4;11.1271;;;04-Jan-2022
+140803;Indiabulls Arbitrage Fund- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CA0;INF666M01CB8;11.9942;;;04-Jan-2022
+140806;Indiabulls Arbitrage Fund- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CK9;INF666M01CL7;11.6883;;;04-Jan-2022
+140802;Indiabulls Arbitrage Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01BB0;INF666M01BC8;10.8696;;;04-Jan-2022
+140804;Indiabulls Arbitrage Fund- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CG7;INF666M01CH5;11.7664;;;04-Jan-2022
+140808;Indiabulls Arbitrage Fund- Regular Plan- Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CI3;INF666M01CJ1;11.7548;;;04-Jan-2022
+
+JM Financial Mutual Fund
+133395;JM Arbitrage Fund (Direct) - Annual Bonus Option - Principal Units;INF192K01GX4;;14.2540;;;04-Jan-2022
+135173;JM Arbitrage Fund (Direct) - Annual IDCW;INF192K01KY4;INF192K01KZ1;12.6289;;;04-Jan-2022
+130604;JM Arbitrage Fund (Direct) - Bonus Option - Principal Units;INF192K01GL9;;14.8519;;;04-Jan-2022
+120482;JM Arbitrage Fund (Direct) - Growth Option;INF192K01BN6;;27.7511;;;04-Jan-2022
+133397;JM Arbitrage Fund (Direct) - Half Yearly Bonus Option - Principal Units;INF192K01ID2;;27.7920;;;04-Jan-2022
+135171;JM Arbitrage Fund (Direct) - Half Yearly IDCW;INF192K01KU2;INF192K01KV0;12.8420;;;04-Jan-2022
+135172;JM Arbitrage Fund (Direct) - Monthly IDCW;INF192K01KM9;INF192K01KN7;11.2063;;;04-Jan-2022
+133398;JM Arbitrage Fund (Direct) - Quarterly Bonus Option - Principal Units;INF192K01IH3;;27.8001;;;04-Jan-2022
+135174;JM Arbitrage Fund (Direct) - Quarterly IDCW;INF192K01KQ0;INF192K01KR8;13.1828;;;04-Jan-2022
+120481;JM Arbitrage Fund (Direct)- IDCW;INF192K01BL0;INF192K01BM8;13.0773;;;04-Jan-2022
+133394;JM Arbitrage Fund (Regular) - Annual Bonus Option - Principal Units;INF192K01GV8;;26.9009;;;04-Jan-2022
+135167;JM Arbitrage Fund (Regular) - Annual IDCW;INF192K01KW8;INF192K01KX6;11.7707;;;04-Jan-2022
+130603;JM Arbitrage Fund (Regular) - Bonus Option - Principal Units;INF192K01GJ3;;14.4844;;;04-Jan-2022
+103780;JM Arbitrage Fund (Regular) - Growth Option;INF192K01510;;26.6430;;;04-Jan-2022
+133399;JM Arbitrage Fund (Regular) - Half Yearly Bonus Option - Principal Units;INF192K01IB6;;26.9465;;;04-Jan-2022
+135170;JM Arbitrage Fund (Regular) - Half Yearly IDCW;INF192K01KS6;INF192K01KT4;11.8568;;;04-Jan-2022
+103781;JM Arbitrage Fund (Regular) - IDCW ;INF192K01494;INF192K01502;12.3660;;;04-Jan-2022
+135168;JM Arbitrage Fund (Regular) - Monthly IDCW;INF192K01KK3;INF192K01KL1;10.4750;;;04-Jan-2022
+133396;JM Arbitrage Fund (Regular) - Quarterly Bonus Option - Principal Units;INF192K01IF7;;26.9465;;;04-Jan-2022
+135169;JM Arbitrage Fund (Regular) - Quarterly IDCW;INF192K01KO5;INF192K01KP2;12.0326;;;04-Jan-2022
+
+Open Ended Schemes ( Other Scheme - Index Funds )
+
+
+Taurus Mutual Fund
+118881;Taurus Nifty Index Fund - Direct Plan - Growth;INF044D01CQ5;;35.5260;;;04-Jan-2022
+118882;Taurus Nifty Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CR3;INF044D01CS1;33.2481;;;04-Jan-2022
+112948;Taurus Nifty Index Fund - Regular Plan - Growth;INF044D01948;;33.7045;;;04-Jan-2022
+112949;Taurus Nifty Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01914;INF044D01922;21.4863;;;04-Jan-2022
+
+Open Ended Schemes ( Other Scheme - Gold ETF )
+
+
+Quantum Mutual Fund
+107693;Quantum Gold Fund;INF082J01408;;41.4428;;;04-Jan-2022
+
+Open Ended Schemes ( Other Scheme - Other  ETFs )
+
+
+Indiabulls Mutual Fund
+147113;Indiabulls Nifty50 Exchange Traded Fund;INF666M01FS5;;184.5472;;;04-Jan-2022
+
+Quantum Mutual Fund
+108479;Quantum Nifty ETF;INF082J01028;;1861.2318;;;04-Jan-2022
+
+Open Ended Schemes ( Other Scheme - FoF Domestic )
+
+
+Quantum Mutual Fund
+115132;Quantum Gold Savings Fund - Direct Plan Growth Option;INF082J01150;;19.1420;;;04-Jan-2022
+141064;Quantum Gold Savings Fund - Regular Plan Growth Option;INF082J01358;;19.0344;;;04-Jan-2022
+
+Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
+
+
+JM Financial Mutual Fund
+120492;JM Flexicap Fund (Direct) - Growth Option;INF192K01CC7;;57.9336;;;04-Jan-2022
+120491;JM Flexicap Fund (Direct) - IDCW;INF192K01CA1;INF192K01CB9;52.6588;;;04-Jan-2022
+109522;JM Flexicap Fund (Regular) - Growth option;INF192K01635;;53.0326;;;04-Jan-2022
+109523;JM Flexicap Fund (Regular) - IDCW;INF192K01619;INF192K01627;40.8657;;;04-Jan-2022
+
+Shriram Mutual Fund
+144905;Shriram Flexi Cap Fund - Direct Growth;INF680P01109;;15.9157;;;04-Jan-2022
+144906;Shriram Flexi Cap Fund - Direct-IDCW;INF680P01117;INF680P01125;15.8466;;;04-Jan-2022
+144902;Shriram Flexi Cap Fund - Regular Growth;INF680P01075;;14.9985;;;04-Jan-2022
+144903;Shriram Flexi Cap Fund - Regular-IDCW;INF680P01083;INF680P01091;14.9940;;;04-Jan-2022
+
+Taurus Mutual Fund
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;INF044D01BV7;INF044D01BW5;77.99;;;04-Jan-2022
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;INF044D01BU9;;154.58;;;04-Jan-2022
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;INF044D01989;;148.85;;;04-Jan-2022
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01955;INF044D01963;72.24;;;04-Jan-2022
